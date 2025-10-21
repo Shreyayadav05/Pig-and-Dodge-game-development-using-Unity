@@ -32,7 +32,4 @@ The objective is to click the moving object before it escapes. Each successful h
 
 ---
 
-## 🧩 Project Setup
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/HitMe.git
+
